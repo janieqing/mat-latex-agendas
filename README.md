@@ -5,7 +5,10 @@ Meeting agendas for Tabb High's Mu Alpha Theta created using LaTex as President 
 Mu Alpha Theta (MAT) is the United States mathematics honor society for high school and two-year college students.
 
 ## Monthly Meetings
-> The agenda for each monthly meeting is in the "meeting-agendas" folder in the main branch of this repository.
+> The tex files for each monthly meeting is in the "meeting-agendas-tex" folder in the main branch of this repository.
+
+> The pdf files for each monthly meeting is in the "meeting-agendas-pdf" folder in the main branch of this repository.
+
 At each monthly meeting, these agendas are presented to all members, giving information about:
   * key points/requirements of the honor society
   * upcoming math competitions
